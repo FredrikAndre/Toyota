@@ -1,0 +1,15 @@
+@import "helpers/mixins";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+@import "pages/startpage";
